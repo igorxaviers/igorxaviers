@@ -11,9 +11,10 @@
 
 - 📄 Know about my experiences [https://igorxavie.me/curriculo.pdf](https://igorxavie.me/curriculo.pdf)
 
----
+<br />
 
 <h3 align="left">Connect with me:</h3>
+
 <br />
 
 <p align="left">
@@ -23,11 +24,9 @@
     <a href="https://instagram.com/igorxavi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igorxavi_" height="30" width="40" /></a>
 </p>
 
----
-
+<br />
 <h2 align="left">Stack:</h2>
 
-<br />
 <h3>Front-end:</h3>
 <br />
 <p align="left"> 
@@ -47,7 +46,8 @@
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 </p>
 
----
+<br />
+
 <h3>Design:</h3>
 <br />
 <p align="left">  
@@ -57,7 +57,8 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
----
+<br />
+
 <h3>Back-end:</h3>
 <br />
 <p>      
@@ -70,7 +71,7 @@
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
  </p>  
 
----
+<br />
 
 <h3>Others:</h3>
 <br />
@@ -81,7 +82,7 @@
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
----
+<br />
 
 <br />
 
