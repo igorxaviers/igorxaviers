@@ -78,7 +78,9 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorxaviers&" alt="igorxaviers" /></p>
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorxaviers&show_icons=true&locale=en&layout=compact" alt="igorxaviers" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igorxaviers&" alt="igorxaviers" />
+<div> 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igorxaviers&show_icons=true&locale=en&layout=compact&theme=dark" alt="igorxaviers" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorxaviers&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
