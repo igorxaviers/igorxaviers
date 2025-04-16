@@ -12,16 +12,16 @@
 
 ### 📊 Um pouco dos meus bastidores
 
-<div align="center" style="display: inline_block"><br>
+<div align="center" style="display: flex; flex-wrap: nowrap; align-items: center; ">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=igorxaviers&show_icons=true&theme=tokyonight&count_private=true"
+    src="https://github-stats-two-nu.vercel.app/api/top-langs/?username=igorxaviers&layout=compact&title_color=f0f0f0&icon_color=00ffb2&text_color=a7a7a7&bg_color=121212&border_color=108461"
   />
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorxaviers&layout=compact&theme=tokyonight"
+    src="https://github-stats-two-nu.vercel.app/api?username=igorxaviers&show_icons=true&title_color=f0f0f0&icon_color=00ffb2&text_color=a7a7a7&bg_color=121212&border_color=108461"
   />
 </div>
+
+
 
 ---
 
