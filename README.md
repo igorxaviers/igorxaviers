@@ -35,7 +35,7 @@
 
 ---
 
-<img align="right" alt="Igor-pic" height="150" style="border-radius:20px;" src="https://avatars.githubusercontent.com/u/99109040?v=4">
+<img align="right" alt="Igor-pic" height="150" style="width: 150px; object-fit: cover; border-radius: 32px;" src="https://github.com/user-attachments/assets/933ea6d6-7b23-4116-a17a-eaee6c91decc">
 
 ### 🛠️ Tecnologias e ferramentas que curto usar
 
